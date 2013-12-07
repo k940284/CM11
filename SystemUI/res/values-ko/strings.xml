@@ -61,6 +61,8 @@
     <string name="pie_phone_status_no_service">서비스 없음</string>
     <string name="pie_phone_status_airplane_mode">비행기 모드 사용</string>
     <string name="pie_phone_status_emergency_only">긴급 전화 전용</string>
+	<string name="advanced_dev_option_wipe_app">앱 데이터 삭제</string>
+    <string name="advanced_dev_option_force_stop">강제 종료</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="system_ui_date_pattern">MMMMd</string>
     <string name="system_ui_weekday_pattern">eeee</string>
