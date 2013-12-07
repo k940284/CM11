@@ -510,7 +510,6 @@
     <string name="sms_security_check_limit_title">SMS 메세지 제한</string>
     <string name="sms_security_check_limit_summary">너무 자주 SMS 메시지를 보내는 애플리케이션을 방지하기 위해 경고 대화 상자가 표시됩니다. 현재 제한 : 30분에 %d개의 메시지</string>
     <string name="sms_security_check_limit_default">30 (기본값)</string>
-    <string name="lock_clock_title">Clock widget</string>
     <string name="lock_clock_title">시계 위젯</string>
     <string name="lock_clock_summary">"'cLock' 홈 및 잠금 화면 위젯 설정 확인 또는 변경"</string>
     <string name="power_notifications_category_title">충전 소리</string>
